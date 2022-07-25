@@ -1,0 +1,17 @@
+ctrl + espaço = Seleciona a Linha inteira.
+shift + espaço = Seleciona a coluna inteira.
+ctrl + = insere uma linha.
+ctrl - = apaga uma linha.
+ctrl + --> = seleciona o ultima a direita.
+ctrl + <-- = seleciona a ultima da esquerda.
+ctrl + pra cima = seleciona a primeira de cima.
+ctrl + pra baixo = seleciona a ultima de baixo.
+ctrl + * = selecionar tudo.
+ctrl + 1 = selecionar a formatação da celula geralmente usado em formatações.
+alt + G = atalho para escrever.
+ctrl + t = Seleciona todos os dados da lista.
+ctrl + shift + * = Seleciona todos os dados da lista.
+ctrl + x = selecionar os dados e colocar em outra posição "recortar".
+ctrl + q = selecionar opções de tabelas e formatações.
+ctrl + enter = seleciona a primeira e arrasta e depois digita ctrl + enter ele ira copiar todas as linhas
+ 
