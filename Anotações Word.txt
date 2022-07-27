@@ -1,0 +1,27 @@
+=rand(2,3) = cria um texto no word automaticamente, o primeiro numero e quantidade
+de paragrafos e o segundo texto e a quantidade de linhas.
+
+=lorem(4,2) = cria um texto no word automaticamente, o primeiro numero e quantidade
+de paragrafos e o segundo texto e a quantidade de linhas.
+
+ctrl + [ ou ctrl + ] = aumenta e diminui o tamanho da fonte.
+
+ctrl + espaço = limpa a formatação dos textos, geralmente util quando se pega algum
+texto da internet e da control c + v.
+
+ctrl + backspace = apagar uma palavra por completo util para economizar tempo.
+
++ tab = cria uma tabela
+
+alt + g = acessa o diga-me um facilitador.
+
+3x click = seleciona o paragrafo.
+
+alt + cursor do mouse = seleciona o texto desejado aonde quiser.
+
+alt + k = atalho de formatação.
+
+tecla "END" = vai ate o final da linha.
+
+ctrl + enter = quebra de paginas bastante usado para quebrar colocar o texto na proxima
+pagina sem formatação.
